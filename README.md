@@ -44,16 +44,18 @@ SmartSwitchPy/
 
 ### 1. Clone the repo
 
+```
 bash
 git clone https://github.com/biplabkarki/SmartSwitchPy.git
 cd SmartSwitchPy
+```
 
 
 ### 2. Install dependencies
-
+```
 bash
 pip install -r requirements.txt
-
+```
 
 ### 3. Set up your devices
 
@@ -66,6 +68,7 @@ cp config.sample.json config.json
 Edit `config.json` like this:
 
 json
+```
 {
   "devices": [
     {
@@ -77,12 +80,14 @@ json
     }
   ]
 }
+```
 
 ### 4. Run the app
 
 bash
+```
 python main.py
-
+```
 
 You'll be prompted to select a device and toggle power.
 
@@ -99,7 +104,7 @@ You'll be prompted to select a device and toggle power.
 ---
 
 ## 📦 Sample Config (config.sample.json)
-
+```
 json
 {
   "devices": [
@@ -112,6 +117,7 @@ json
     }
   ]
 }
+```
 
 
 ---
