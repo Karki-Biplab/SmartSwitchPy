@@ -1,0 +1,11 @@
+{
+    "devices": [
+        {
+            "name": "My Smart Switch",
+            "id": "your-device-id",
+            "ip": "192.168.x.x",
+            "key": "your-local-key",
+            "version": "3.3"
+        }
+    ]
+}
