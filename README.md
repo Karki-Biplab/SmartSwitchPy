@@ -144,6 +144,6 @@ Feel free to open issues, suggest features, or submit pull requests. Let’s mak
 ---
 
 > 🔌 **Built with Python. Powered by curiosity. Open for ideas.**  
-> 📧 Contact: bipin@biplab13.com.np  
+> 📧 Contact: biplabkarki13@gmail.com 
 > 🌐 Portfolio: [biplab13.com.np](https://biplab13.com.np)  
 > 🏡 Kathmandu, Nepal
