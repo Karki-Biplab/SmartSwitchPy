@@ -1,8 +1,4 @@
-Absolutely, bro — here’s your **ready-to-paste** full `README.md` file, all clean and bundled in one go. No mess, no missing pieces. Just copy and paste this straight into your `README.md`:
 
----
-
-```markdown
 # SmartSwitchPy ⚡🧠  
 **Built by Biplab Karki – Kathmandu-based Software Engineer | IoT + Python Enthusiast**
 
@@ -47,28 +43,28 @@ SmartSwitchPy/
 
 ### 1. Clone the repo
 
-```bash
+bash
 git clone https://github.com/biplabkarki/SmartSwitchPy.git
 cd SmartSwitchPy
-```
+
 
 ### 2. Install dependencies
 
-```bash
+bash
 pip install -r requirements.txt
-```
+
 
 ### 3. Set up your devices
 
 Copy the sample config:
 
-```bash
+bash
 cp config.sample.json config.json
-```
+
 
 Edit `config.json` like this:
 
-```json
+json
 {
   "devices": [
     {
@@ -80,13 +76,12 @@ Edit `config.json` like this:
     }
   ]
 }
-```
 
 ### 4. Run the app
 
-```bash
+bash
 python main.py
-```
+
 
 You'll be prompted to select a device and toggle power.
 
@@ -104,7 +99,7 @@ You'll be prompted to select a device and toggle power.
 
 ## 📦 Sample Config (config.sample.json)
 
-```json
+json
 {
   "devices": [
     {
@@ -116,7 +111,7 @@ You'll be prompted to select a device and toggle power.
     }
   ]
 }
-```
+
 
 ---
 
