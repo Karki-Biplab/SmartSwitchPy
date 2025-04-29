@@ -27,7 +27,7 @@ SmartSwitchPy/
 ├── config.sample.json     # Example config you can copy
 ├── requirements.txt       # All required Python packages
 └── README.md              # You're here – the main doc
-
+```
 
 ---
 
