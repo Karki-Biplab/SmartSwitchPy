@@ -24,7 +24,6 @@ Whether you’re flipping a switch or crafting full-on automations, this repo gi
 
 ## 📁 Project Structure
 
-```
 SmartSwitchPy/
 ├── main.py                # Entry point for CLI control
 ├── device_manager.py      # Device logic and command handler
@@ -32,7 +31,6 @@ SmartSwitchPy/
 ├── config.sample.json     # Example config you can copy
 ├── requirements.txt       # All required Python packages
 └── README.md              # You're here – the main doc
-```
 
 ---
 
